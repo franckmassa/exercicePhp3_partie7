@@ -5,7 +5,6 @@
   <title>Exercice3</title>
 </head>
 <body>
-  
     <!--Récupération des données du formulaire-->
     Bonjour <?php echo $_GET['lastName'] . ' ' . $_GET['firstName']; ?>
   
